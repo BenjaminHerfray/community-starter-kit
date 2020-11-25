@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome bot is a robot that welcomes people! It allows people to be welcomed, so that humans need not do it themselves. Thisuses state of the art _conscious computer_ technology to truly welcome people as if they were being welcomed by actual humans.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Welcome bot has many features. The following are just _some_ of the many features present in welcome bot:
+- Human simulation technology: this robot is _indistiguishable from humans_ in social interaction. You read that right! It passed the Turing test with after only 2 hours of machine learning
+- In addition to welcoming people, it can do just about any task humans can!
+- In short, it does everything!!!
 
 ## Getting started
 
