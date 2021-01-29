@@ -36,3 +36,4 @@ firstPRMergeComment: >
 ### Example Messages
 
 Welcome to my new file!
+Is this enough to be recognized?
